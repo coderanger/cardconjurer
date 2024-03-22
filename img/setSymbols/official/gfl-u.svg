@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="85px" viewBox="0 0 100 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>U</title>
+    <defs>
+        <linearGradient x1="-1.52313555e-15%" y1="50%" x2="113.35477%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#626E77" offset="0%"></stop>
+            <stop stop-color="#697780" offset="16.2270293%"></stop>
+            <stop stop-color="#7D8E98" offset="23.1992507%"></stop>
+            <stop stop-color="#9EB4C0" offset="28.2548277%"></stop>
+            <stop stop-color="#A1B7C3" offset="35.1780586%"></stop>
+            <stop stop-color="#ADC6D4" offset="39.3018148%"></stop>
+            <stop stop-color="#B5CEDE" offset="41.7672234%"></stop>
+            <stop stop-color="#B7D1E1" offset="45.581534%"></stop>
+            <stop stop-color="#B5CEDE" offset="47.7051382%"></stop>
+            <stop stop-color="#ADC6D4" offset="50.8104313%"></stop>
+            <stop stop-color="#A0B6C2" offset="55.219111%"></stop>
+            <stop stop-color="#A1B7C3" offset="58.1806392%"></stop>
+            <stop stop-color="#8B9DA8" offset="64.6313233%"></stop>
+            <stop stop-color="#74838D" offset="71.8157617%"></stop>
+            <stop stop-color="#67747D" offset="78.9940204%"></stop>
+            <stop stop-color="#626E77" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Set-Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="GFL" transform="translate(-100.000000, -9.000000)">
+            <g id="U" transform="translate(100.000000, 9.000000)">
+                <rect id="Placeholder-for-size" x="0" y="0" width="100" height="85"></rect>
+                <path d="M50,3.37759959 L96.8938579,80.7896825 L3.10614206,80.7896825 L50,3.37759959 Z" id="Triangle" stroke="#000000" stroke-width="3.5" fill="url(#linearGradient-1)"></path>
+                <g id="Eye" transform="translate(32.000000, 18.000000)">
+                    <path d="M17.9057223,9.17700818 C21.4402672,9.17700818 24.7397039,10.3522509 27.5404885,12.3808172 C30.3740822,14.4331467 32.6978198,17.3559229 34.2511791,20.8265638 C32.7929871,24.6101149 30.4461302,27.8226254 27.5158938,30.0866378 C24.6199181,32.324179 21.1532668,33.6320346 17.4247218,33.6320346 C13.8901768,33.6320346 10.5907401,32.4567919 7.78995559,30.4282256 C4.95636187,28.3758961 2.63262427,25.4531199 1.07926499,21.9824791 C2.53745697,18.1989279 4.88431382,14.9864174 7.81455025,12.722405 C10.710526,10.4848638 14.1771772,9.17700818 17.9057223,9.17700818 Z" id="Eye-Outline" stroke="#000000" stroke-width="2" fill="#FFFFFF"></path>
+                    <ellipse id="Pupil" fill="#000000" cx="17.5565176" cy="21.4045214" rx="2.16450216" ry="10.3415103"></ellipse>
+                </g>
+                <g id="Bowtie" transform="translate(40.000000, 59.000000)" fill="#000000">
+                    <polygon id="Triangle" transform="translate(5.050505, 5.291005) rotate(90.000000) translate(-5.050505, -5.291005) " points="5.05050505 0.481000481 10.1010101 10.1010101 -1.63424829e-13 10.1010101"></polygon>
+                    <polygon id="Triangle" transform="translate(14.670515, 5.291005) scale(-1, 1) rotate(90.000000) translate(-14.670515, -5.291005) " points="14.6705147 0.481000481 19.7210197 10.1010101 9.62000962 10.1010101"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
