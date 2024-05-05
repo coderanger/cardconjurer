@@ -1,5 +1,8 @@
 loadFramePacks([
 	{name:'Set Showcase Frames (Chronological)', value:'disabled'},
+	{name:'Breaking News (OTP)', value:'BreakingNews'},
+	{name:'Vault (BIG)', value:'Vault'},
+	{name:'Wanted Poster (OTJ)', value:'Wanted'},
 	{name:'Pip-Boy (PIP)', value:'Pipboy'},
 	{name:'Dossier (MKM)', value:'Dossier'},
 	{name:'Scrolls of Middle-earth (LTR)', value:'Scroll'},
@@ -57,14 +60,14 @@ loadFramePacks([
 	{name:'Etched (Snow)', value:'EtchedSnow'},
 	{name:'Legend Crowns (Etched)', value:'LegendCrownsEtched'},
 	{name:'Inner Crowns (Etched)', value:'InnerCrownsEtched'},
-	
+
 	{name:'Universes Beyond', value:'disabled'},
 	{name:'Universes Beyond', value:'UB'},
 	{name:'Universes Beyond (Full art)', value:'UBFull'},
 	{name:'Universes Beyond (Extended art)', value:'UBExtendedArt'},
 	{name:'Legend Crowns (Universes Beyond)', value:'UBLegendCrowns'},
 	{name:'Floating Legend Crowns (Universes Beyond)', value:'UBLegendCrownsFloating'},
-	
+
 	{name:'Masterpieces/Other', value:'disabled'},
 	{name:'Phyrexian', value:'Praetors'},
 	{name:'ZNR Expeditions (2020)', value:'ExpeditionZNR-1'},
