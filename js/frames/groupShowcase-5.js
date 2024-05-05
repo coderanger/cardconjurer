@@ -50,6 +50,7 @@ loadFramePacks([
 	{name:'Extended Art (Shorter Textbox)', value:'M15ExtendedArtShort'},
 	{name:'FNM Promo (Inverted Promos)', value:'FNM'},
 	{name:'Full Text', value:'FullText'},
+	{name:'Full Text (Alt)', value:'FullTextAlt'},
 	{name:'Foil-Etched', value:'disabled'},
 	{name:'Etched', value:'Etched'},
 	{name:'Etched (Nyx)', value:'EtchedNyx'},
